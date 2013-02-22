@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>Test CSS Background</title>
+	<style type="text/css">
+		body {
+			text-align: center;
+			font-size:25px ;
+			background-color:#200000 ;
+			line-height: 1.5cm ;		
+		}
+		#header {
+			font-family: tahoma;
+			font-size: 35px;
+			background-color: #000000 ;
+			color: #FFFFD7 ;
+		}
+		.text {
+			color: #00FFFF ;
+		}
+		#world {
+			font-size: 30px;
+			font-style: italic;
+			color: #009900 ;
+		}
+	</style>
+</head>
+<body>
+	<h1 id="header">And still I don't understand</h1>
+	<p class="text">The cycle I'm trapped in</p>
+	<p class="text">This ridiculous complexity</p>
+	<p id="world">THE WHOLE WORLD</p>
+	<p class="text">It just makes me think how stupid I am!</p>
+</body>
+</html>
