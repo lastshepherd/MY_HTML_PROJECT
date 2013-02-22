@@ -16,7 +16,7 @@
 			background-color: #000000 ;
 			color: #FFFFD7 ;
 		}
-		.text {
+		p {
 			color: #00FFFF ;
 		}
 		#world {
